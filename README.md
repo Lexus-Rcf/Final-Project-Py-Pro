@@ -1,3 +1,3 @@
 ## Inilah ide untuk proyek saya:
 > Saya ingin membuat klasifikasi 3 kelas(3 classification) pada topik climate changes, 3 kelas tersebut ada : Hutan Sehat / Rimbun (Dense Forest), Hutan Rusak / Terdegradasi (Degraded / Sparsely Vegetated Forest), dan Hutan Gundul / Lahan Kritis (Deforested / Barren Land). Dimana nanti jika kita memasuki gambar hutan, nanti akan di identifikasikan dan akan masuk di golongan yang tepat. mengapa ada 3 kelas dan tidak 2 kelas? (Hutan sehat & Hutan gundul), karena sebelum hutan gundul, pasti ada fase kerusakan/degradasi.
-> Saya akan mengtrain(melatih) google train dengan cara memberi 5-7 gambar pada setiap kelas agar gambar yang nanti akan kita taruh bisa di identifikasikan.
+> Saya akan mengtrain(melatih) google train dengan cara memberi 20 gambar pada setiap kelas agar gambar yang nanti akan kita taruh bisa di identifikasikan.
